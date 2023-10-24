@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./index-fe6663f1.js";const c="/assets/error404-58f668f0.png",r={},n={class:"container text-center my-4"},_=o("img",{src:c},null,-1),a=[_];function i(d,f){return s(),t("div",n,a)}const m=e(r,[["render",i]]);export{m as default};
